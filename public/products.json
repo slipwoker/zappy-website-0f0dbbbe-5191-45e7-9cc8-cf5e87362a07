@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T20:11:14.977Z",
-  "base_url": "https://example.com",
+  "generated_at": "2026-07-22T20:11:37.969Z",
+  "base_url": "https://style-tech.zappy5.app",
   "currency": "ILS",
   "count": 1,
   "products": [
@@ -19,11 +19,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/image-product-image-1784750800607-28adta.webp"
+        "https://style-tech.zappy5.app/assets/image-product-image-1784750800607-28adta.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/mchshb-20eni0",
+      "url": "https://style-tech.zappy5.app/product/mchshb-20eni0",
       "categories": [],
       "updated_at": "2026-07-22T20:07:20.093Z"
     }

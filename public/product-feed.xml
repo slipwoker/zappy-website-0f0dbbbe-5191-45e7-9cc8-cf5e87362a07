@@ -2,15 +2,15 @@
 <rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
   <channel>
     <title>סטייל וטק</title>
-    <link>https://example.com</link>
+    <link>https://style-tech.zappy5.app</link>
     <description>Product feed for סטייל וטק</description>
-    <lastBuildDate>Wed, 22 Jul 2026 20:11:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 20:11:37 GMT</lastBuildDate>
     <item>
       <g:id>0f18a197-a4f3-4761-a345-d9581e065a30</g:id>
       <g:title>מחשב</g:title>
       <g:description>מחשב</g:description>
-      <g:link>https://example.com/product/mchshb-20eni0</g:link>
-      <g:image_link>https://example.com/assets/image-product-image-1784750800607-28adta.webp</g:image_link>
+      <g:link>https://style-tech.zappy5.app/product/mchshb-20eni0</g:link>
+      <g:image_link>https://style-tech.zappy5.app/assets/image-product-image-1784750800607-28adta.webp</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>0.10 ILS</g:price>
       <g:condition>new</g:condition>
