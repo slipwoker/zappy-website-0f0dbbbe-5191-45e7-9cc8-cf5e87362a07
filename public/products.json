@@ -1,8 +1,31 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-22T19:54:00.105Z",
+  "generated_at": "2026-07-22T20:10:29.923Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "0f18a197-a4f3-4761-a345-d9581e065a30",
+      "slug": "mchshb-20eni0",
+      "name": "מחשב",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0.1,
+      "base_price": 0.1,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/image-product-image-1784750800607-28adta.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/mchshb-20eni0",
+      "categories": [],
+      "updated_at": "2026-07-22T20:07:20.093Z"
+    }
+  ]
 }

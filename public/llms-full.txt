@@ -6084,3 +6084,12 @@ Description: תודה שפנית לסטייל וטק. פנייתך התקבלה 
 
 ---
 
+## Product Catalog
+
+### מחשב
+URL: https://example.com/product/mchshb-20eni0
+Price: 0.10 ILS
+Availability: In stock
+
+---
+
