@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://-0f0dbbbe.zappy5.app
+https://example.com
 גלו את הפלטפורמה הטובה ביותר למסחר אלקטרוני לעסקים קטנים. אופנה, גאדג&#39;טים ומוצרי חשמל במקום אחד. הצטרפו עוד היום ותתחילו למכור בגדול!
 
 ### סיפורי סטייל וטק
-https://-0f0dbbbe.zappy5.app/stories
+https://example.com/stories
 היכנסו לעולם סיפורי ההצלחה שלנו! למדו איך ניהול מלאי חכם במסחר אלקטרוני הופך חלומות עסקיים למציאות. קראו, שאבו השראה ופעלו עכשיו.
 
 ### אודות
-https://-0f0dbbbe.zappy5.app/about
+https://example.com/about
 סטייל וטק היא פלטפורמת מסחר אלקטרוני B2B ו-B2C המחברת בין אופנה לטכנולוגיה. גלו איך אנחנו מעצימים עסקים קטנים למכור חכם יותר. בואו לגדול איתנו!
 
 ### שאלות נפוצות
-https://-0f0dbbbe.zappy5.app/faq
+https://example.com/faq
 מתלבטים איך למכור עסק אלקטרוני או לנהל מלאי? דף השאלות הנפוצות שלנו עונה על הכל. קבלו פתרונות מיידיים והתחילו לייעל את המכירות שלכם עוד היום!
 
 ### צור קשר
-https://-0f0dbbbe.zappy5.app/contact
+https://example.com/contact
 מוכנים לקחת את העסק לשלב הבא? צרו קשר עם צוות הפלטפורמה הטובה ביותר למסחר אלקטרוני. אנחנו כאן כדי להפוך את החזון שלכם למכירות אמיתיות!
 
 ### Products
-https://-0f0dbbbe.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - סטייל וטק
 
 ### Cart
-https://-0f0dbbbe.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-0f0dbbbe.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-0f0dbbbe.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-0f0dbbbe.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-0f0dbbbe.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-0f0dbbbe.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - סטייל וטק
 
 ### Category
-https://-0f0dbbbe.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - סטייל וטק
 
 ### תודה רבה | סטייל וטק
-https://-0f0dbbbe.zappy5.app/thank-you
+https://example.com/thank-you
 תודה שפנית לסטייל וטק. פנייתך התקבלה בהצלחה ואנו נחזור אליך בהקדם האפשרי עם פתרונות מתקדמים עבור best ecommerce platform for small business.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-0f0dbbbe.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-0f0dbbbe.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-0f0dbbbe.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -101,8 +101,8 @@ E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-0f0dbbbe.zappy5.app/sitemap.xml
-- Robots: https://-0f0dbbbe.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-0f0dbbbe.zappy5.app/llms-full.txt
-- Products (JSON): https://-0f0dbbbe.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-0f0dbbbe.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
